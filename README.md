@@ -30,5 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itstheakash&" alt="itstheakash" /></p>
 
-<p>[![@akashbarman's Holopin board](https://holopin.me/akashbarman)](https://holopin.io/@akashbarman)
+<p align="center">
+<img src="https://www.holopin.io/api/user/board?user=akashbarman">
 </p>
