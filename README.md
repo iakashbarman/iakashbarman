@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Final-year B.Tech CSE student with a passion for front-end development and creating seamless, responsive web experiences. Skilled in JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, and WordPress. With a solid grasp of Java and a passion for UI/UX, I build intuitive interfaces that blend function and design. Always eager to learn and take on new challenges in web development.</h3>
+<h3 align="center">Final-year B.Tech CSE student with a passion for front-end development and creating seamless, responsive web experiences. Skilled in JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap and WordPress. With a solid grasp of Java and a passion for UI/UX, I build intuitive interfaces that blend function and design. Always eager to learn and take on new challenges in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iakashbarman&label=Profile%20views&color=0e75b6&style=flat" alt="iakashbarman" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java & JavaScript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect On:</h3>
 <p align="left">
 <a href="https://twitter.com/iakashbarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iakashbarman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akashbarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashbarman" height="30" width="40" /></a>
@@ -45,8 +45,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iakashbarman&show_icons=true&locale=en&layout=compact" alt="iakashbarman" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iakashbarman&show_icons=true&locale=en&layout=compact" alt="iakashbarman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iakashbarman&show_icons=true&locale=en" alt="iakashbarman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iakashbarman&" alt="iakashbarman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iakashbarman&" alt="iakashbarman" /></p> -->
