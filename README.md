@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Final-year B.Tech CSE student with a passion for front-end development and creating seamless, responsive web experiences. Skilled in JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, and WordPress. With a solid grasp of Java and a strong eye for UI/UX, I build intuitive interfaces that blend function and design. Always eager to learn and take on new challenges in web development.</h3>
+<h3 align="center">Final-year B.Tech CSE student with a passion for front-end development and creating seamless, responsive web experiences. Skilled in JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, and WordPress. With a solid grasp of Java and a passion for UI/UX, I build intuitive interfaces that blend function and design. Always eager to learn and take on new challenges in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iakashbarman&label=Profile%20views&color=0e75b6&style=flat" alt="iakashbarman" /> </p>
 
@@ -20,15 +20,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" ><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" ><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40</a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" ><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="wordpress logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="45" alt="selenium logo"  />
+  <img width="5" />
 </p>
 
 
